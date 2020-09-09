@@ -8,4 +8,4 @@ The project is complished by Gao-Ming Tang, Zimo Yang, Xuwen Ren, Jiayuan Zhang,
 
 I was mainly responsible for designing the application layout using SceneBuilder and coding 4 controllers including ReportController, BarchartController, PiechartController, and VisitController as well as their corresponding .fxml files.
  
-I also assisted in connecting the data from MySQL database.
+I also assisted in retrieving the data from MySQL database.
