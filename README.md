@@ -1,4 +1,4 @@
-# JavaFX-Facial-Recongnition-App
+# JavaFX-Facial-Recognition-App
 This is the final project for the course *Object-Oriendted Programming in Java* at Carnegie Mellon University.<br/>
 The project is complished by Gao-Ming Tang, Zimo Yang, Xuwen Ren, Jiayuan Zhang, and Chenlu Jiang.<br/>
 ### Project Description:
